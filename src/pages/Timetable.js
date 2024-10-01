@@ -34,4 +34,4 @@ function Timetable() {
     )
 }
 
-export default Timetable
+export default Timetable;

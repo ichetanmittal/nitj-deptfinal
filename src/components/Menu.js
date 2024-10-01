@@ -72,7 +72,7 @@ function Menu({ menu, setMenu }) {
                     link: `/dept/${dept}/Student`
                 }, {
                     l: 'Alumni',
-                    link: `https://xceed.nitj.ac.in/timetable`,
+                    link: `https://xceed.nitj.ac.in/alumni`,
                     newTab:true
                 }, {
                     l: 'Staff',

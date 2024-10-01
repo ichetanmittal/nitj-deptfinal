@@ -50,7 +50,7 @@ function Menu({ menu, setMenu }) {
                     link: `/dept/${dept}/Syllabus`
                 }, {
                     l: 'TimeTable',
-                    link: `https://nitj.ac.in/alumni/alumni.html`,
+                    link: `https://xceed.nitj.ac.in/timetable`,
                     newTab: true
                 }, {
                     l: 'Department Activities Calendar',
@@ -72,7 +72,8 @@ function Menu({ menu, setMenu }) {
                     link: `/dept/${dept}/Student`
                 }, {
                     l: 'Alumni',
-                    link: `https://xceed.nitj.ac.in/timetable`,
+                    link: `https://nitj.ac.in/alumni/alumni.html`,
+                    
                     newTab:true
                 }, {
                     l: 'Staff',
